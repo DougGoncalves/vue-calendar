@@ -1,24 +1,28 @@
-# vue-calendar
+<h1 align="center">Vue Calendar - Firebase DB</h1>
 
-## Project setup
-```
-yarn install
-```
+ <p align="center">
+   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+ <p align="center">
+    <img alt="print" src="src/assets/print.png" >
+ </p>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+ ## :rocket: Technologies
 
-### Lints and fixes files
-```
-yarn lint
-```
+A calendar application using VueJS, Vuetify components for the front-end and Google Firebase as DB:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ - [VueJS](https://vuejs.org)
+ - [Vuetify](https://vuetifyjs.com/en/)
+ - [Firebase](http://firebase.google.com/)
+
+
+ ## 💻 Project
+
+Wanna see a live version ? Check it out: [Vue Calendar](https://doug-vue-calendar.netlify.app).
+
+ ---
+<h4 align="center">
+   Code and coffee ☕
+</h4>
